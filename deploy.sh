@@ -16,4 +16,4 @@ else
         exit 1
     fi
 fi
-ollama pull gemma3:1b
+ollama pull llama3.2
