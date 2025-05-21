@@ -1,3 +1,4 @@
+#!/bin/bash
 # Check if ollama is installed
 if command -v ollama &> /dev/null
 then
